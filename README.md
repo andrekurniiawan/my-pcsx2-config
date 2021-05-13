@@ -2,7 +2,7 @@
 
 <br>
 
-- Copy and replace all files in `PCSX2` folder
+- Copy and replace all files to `PCSX2` folder
 - Check paths in `inis/**` and `PCSX2-reg.ini`
 
 <br>
